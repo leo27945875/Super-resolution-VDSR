@@ -1,9 +1,0 @@
-1. 使用 VDSR。
-
-2. 使用 Kaiming 初始化
-
-3. 做 adjustable gradient clipping
-
-4. Input images 要 resize 到 41*41 (與感受野相同)
-
-5. openCV 用陣列的資料型別來判斷是否為[0~1]還是[0~255]
