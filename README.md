@@ -1,4 +1,4 @@
-# Super-resolution
+# VDSR
 
 ## 用法
 環境:
