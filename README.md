@@ -13,5 +13,5 @@
 4. 如果GPU memory夠大的話可以調整第2個block的clip參數，可以調整輸入模型的圖片大小。
 
 ## 結果
-![](./testing_lr_images/11.png){:height="200px"} 
-![](./testing_sr_images/11.png){:height="200px"}
+![](./testing_lr_images/11.png){height="200px"} 
+![](./testing_sr_images/11.png){height="200px"}
